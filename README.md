@@ -16,4 +16,3 @@ I want to work with multiple developers. Please contact
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-HTML-blue"/>&nbsp
   </p>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jeongwanwoo%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
