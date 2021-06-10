@@ -2,11 +2,12 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-
+I'm Jeong Gwanwoo<br>
+I want to work with multiple developers. Please contact
 </p>
 
 
-### Hi there 👋
+
 
 <!--
 **Jeongwanwoo/Jeongwanwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
