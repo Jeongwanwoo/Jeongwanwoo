@@ -1,3 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=230&section=header&text=Gwan%20woo&fontSize=80)
+
+<h3 align="center"> 👋 Hi there 👋 </h3>
+<p align="center">
+
+</p>
+
+
 ### Hi there 👋
 
 <!--
